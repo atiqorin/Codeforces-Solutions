@@ -1,4 +1,7 @@
+# System Files
 .DS_Store
+
+# Class files
 *.class
 
 # Mobile Tools for Java (J2ME)
